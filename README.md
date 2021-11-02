@@ -13,24 +13,43 @@ menggunakan sirih sebagai obat berbagai jenis penyakit. Walaupun demikian tanama
 dijumpai di seluruh Indonesia, dimanfaatkan atau hanya sebagai tanaman hias.
 
 Di dalam daun sirih terdapat beberapa kandungan, antara lain :
+
  Protein: 3 persen per 100 gram.
+
  Iodin: 3,4 mcg per 100 gram.
+
  Sodium: 1,1-4,6% per 100 gram.
+
  Vitamin A: 1,9-2,9 mg per 100 gram.
+
  Vitamin B1: 13-70 mcg per 100 gram.
+
  Vitamin B2: 1,9-30 mcg per 100 gram.
+
  Asam nikotinat: 0,63-0,89 mg per 100 gram.
+
 Manfaat-manfaat daun sirih :
+
  Menurunkan gula darah para penderita diabetes tipe 2
+
  Menurunkan kolestrol dan tekanan darah
+
  Penangkal kanker
+
  Mempercepat penyembuhan luka
+
  Membantu menurunkan depresi
+
  Menjaga kesehatan mulut dan gigi
+
  Menjaga saluran pencernaan
+
  Meningkatkan energy
+
  Mengobati mimisan
+
  Obat radang prostat
+
  Obat kantuk
 
 Pada tugas ini gambar daun sirih ini menjadi Data Label 1 yang dimana berisikan 50 image. Images daun 
